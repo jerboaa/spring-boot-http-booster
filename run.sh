@@ -1,2 +1,2 @@
 #!/bin/bash
-exec mvn spring-boot:run
+exec java -jar target/spring-boot-http-5-*.jar
