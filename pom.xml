@@ -130,7 +130,7 @@
           <resources>
             <labels>
               <all>
-                <space>spring-boot-http-booster</space>
+                <space>osio-builder-test-springboot</space>
               </all>
             </labels>
           </resources>
